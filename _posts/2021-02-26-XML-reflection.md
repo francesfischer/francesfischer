@@ -5,4 +5,4 @@ I was given the task of coding pages 27 through 30 of the short story, “The Ye
 
 [Google Doc with Comments](https://francesfischer.github.io/francesfischer/images/GoogleDoc.jpg)
 
-The Google Document was a perfect testing ground for the project ahead. Using the “comment” function, I highlighted page breaks, em-dashes, odd spacings, and a lot more. Initially, this was overwhelming. With comments quickly filling the side bar of my screen, it was hard not to think I was annotating too much. Having to read and re-read each line made me quite familiar with my portion of the story, and both intriguing and saddening to view the narrators anxieties from her perspective. 
+The Google Document was a perfect testing ground for the project ahead. Using the “comment” function, I highlighted page breaks, em-dashes, odd spacings, and a lot more. Initially, this was overwhelming. With comments quickly filling the side bar of my screen, it was hard not to think I was annotating _too much_. Having to read and re-read each line made me quite familiar with my portion of the story, and both intriguing and saddening to view the narrators anxieties from her perspective. 
