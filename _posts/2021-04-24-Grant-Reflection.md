@@ -8,6 +8,8 @@ Writing for this grant and for this class as a whole has made me think about wri
 
 This class initially caught my eye when signing up for my spring classes at the end of last semester. I had taken a post-humanism course my sophomore year, and upon seeing the words “digital” and “humanities” grouped together, I believed I was basically signing up for a Black Mirror deep dive Writing Intensive. Although I was incredibly mistaken, I believe that this course has helped me to develop a lot of tools that can be used in my desired career path. 
 
+![Twitter Reflection](https://francesfischer.github.io/francesfischer/images/Tweet.jpg)
+
 Learning how to build a GitHub repository and TEI were initially two things that I was apprehensive about. However, after submitting our first blog post, I found GitHub to be relatively straightforward, and it now feels incredibly rewarding to be able to put together a website (in some fashion) from start to finish. While I enjoyed the TEI project, I learned via the comments after I had turned it in that I had issues with some of the coding. I think that I would have enjoyed it more had we explored it more in depth throughout class.
 
 Twitter was something else that I was initially nervous about, but quickly fell into a groove with. As I’ve gotten older, I have found myself spending less and less time on social media, and Twitter was a platform that I had never used. With that being said though, I quickly found to enjoy using this compared to discussion boards. The character limit and general flow of Twitter make it easy to have discussions in a short and sweet manner. 
